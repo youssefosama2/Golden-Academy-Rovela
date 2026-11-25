@@ -638,7 +638,7 @@ export default function HeroSection() {
               {t("hero.desc")}
             </p>
 
-            <div className="hero-highlights">
+            {/* <div className="hero-highlights">
               <div className="hero-highlight">
                 <span className="highlight-icon">✓</span>
                 <span>{t("hero.highlights.training")}</span>
@@ -651,7 +651,7 @@ export default function HeroSection() {
                 <span className="highlight-icon">✓</span>
                 <span>{t("hero.highlights.registration")}</span>
               </div>
-            </div>
+            </div> */}
 
             <div className="hero-actions">
               <button

@@ -12,18 +12,23 @@ const Pricing = () => {
     {
       id: "monthly",
       number: "01",
+      price: "400",
     },
     {
       id: "quarterly",
       number: "02",
+      price: "1200",
     },
     {
       id: "halfyear",
       number: "03",
+      price: "2400",
     },
     {
       id: "annual",
       number: "04",
+      price: "4000",
+      featured: true,
     },
   ];
 
@@ -55,11 +60,21 @@ const Pricing = () => {
                 lg={3}
                 className="pricing-column"
               >
-                <div className="pricing-card">
+                <div
+                  className={`pricing-card ${
+                    item.featured ? "pricing-card-featured" : ""
+                  }`}
+                >
                   <div className="pricing-card-top">
                     <span className="pricing-number">
                       {item.number}
                     </span>
+
+                    {item.featured && (
+                      <span className="pricing-featured-label">
+                        {t("pricing.recommended")}
+                      </span>
+                    )}
                   </div>
 
                   <div className="pricing-card-content">
@@ -70,12 +85,16 @@ const Pricing = () => {
                     <div className="pricing-price-box">
                       <div className="pricing-price">
                         <span className="pricing-price-value">
-                          تواصل معنا
+                          {item.price}
+                        </span>
+
+                        <span className="pricing-currency">
+                          {t("pricing.currency")}
                         </span>
                       </div>
 
                       <span className="pricing-duration">
-                        لمعرفة الأسعار والتفاصيل
+                        {t(`pricing.cards.${item.id}.duration`)}
                       </span>
                     </div>
 
@@ -88,9 +107,9 @@ const Pricing = () => {
                     <Button
                       className="pricing-button"
                       onClick={() =>
-                        handleJoin({
-                          plan: t(`pricing.cards.${item.id}.plan`),
-                        })
+                        handleJoin(
+                          t(`pricing.cards.${item.id}.plan`)
+                        )
                       }
                     >
                       {t("pricing.button")}

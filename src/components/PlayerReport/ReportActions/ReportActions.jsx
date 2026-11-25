@@ -21,9 +21,9 @@ const ReportActions = () => {
 
   const [theme, setTheme] = useState(() => {
     try {
-      return localStorage.getItem(THEME_KEY) || "light";
+      return localStorage.getItem(THEME_KEY) || "dark";
     } catch {
-      return "light";
+      return "dark";
     }
   });
 

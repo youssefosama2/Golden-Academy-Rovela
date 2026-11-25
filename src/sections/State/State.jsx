@@ -205,7 +205,7 @@ const StatsSection = () => {
       </section>
 
       <a
-        href="https://wa.me/201091654379"
+        href="https://wa.me/201060442491"
         className="stats-whatsapp"
         target="_blank"
         rel="noopener noreferrer"
