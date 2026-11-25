@@ -1,0 +1,505 @@
+{
+  "navbar": {
+    "brand": "Golden Football Academy",
+    "about": "About Us",
+    "pricing": "Membership",
+    "stars": "Golden Stars",
+    "programs": "Training Groups",
+    "join": "Join the Golden Family"
+  },
+  "hero": {
+    "badge": "Golden Football Academy | Inside El Tayaran Club, New Cairo",
+    "title": "Your Child's Journey to Football Starts Here",
+    "desc": "From the first touch to the first goal, we help your child learn football skills, build confidence, and experience the spirit of teamwork. Specialized football training for children aged 3 to 12.",
+    "join": "Book Your Free Trial Session",
+    "whatsapp": "Contact Us on WhatsApp",
+    "players": "Players",
+    "coaches": "Coaches",
+    "championships": "Championships",
+    "plan": "Ask About Membership",
+    "registration": {
+      "title": "Register Your Child at Golden Academy",
+      "image": "Player Photo",
+      "imageHint": "Click to upload the player's photo",
+      "imageRequired": "Please upload the player's photo",
+      "playerName": "Player Name",
+      "birthDate": "Date of Birth",
+      "position": "Position",
+      "selectPosition": "Select Player Position",
+      "branch": "Branch",
+      "selectBranch": "Select Branch",
+      "phone": "Parent's Phone Number",
+      "medicalNotes": "Any medical conditions? (Optional)",
+      "declarationTitle": "Parent Declaration",
+      "declaration": "The parent confirms that the player is medically fit and has no health conditions that prevent participation in sports activities. If any medical condition exists, it has been disclosed in the medical notes above.",
+      "submit": "Submit Registration Request",
+      "cancel": "Cancel",
+      "loading": "Submitting registration request...",
+      "success": "Your Request Has Been Submitted Successfully",
+      "successMessage": "Thank you for choosing Golden Academy. We will contact you soon to confirm the details.",
+      "error": "An Error Occurred",
+      "failed": "Unable to submit the registration request",
+      "noBranches": "No Available Branches",
+      "noBranchesMessage": "Registration is currently unavailable.",
+      "completeFields": "Please complete all required fields",
+      "invalidDate": "Invalid date of birth",
+      "invalidAge": "The player's age must be between 4 and 20 years",
+      "invalidBranch": "The selected branch is unavailable",
+      "invalidPhone": "Please enter a valid phone number",
+      "invalidImage": "Please select a valid image file.",
+      "largeImage": "Image is too large. Maximum size is 10 MB.",
+      "imageError": "Image Error",
+      "imageProcessingError": "Unable to process the image.",
+      "imageUrlError": "Unable to retrieve the player's image URL.",
+      "positions": {
+        "goalkeeper": "Goalkeeper (GK)",
+        "centerBack": "Center Back (CB)",
+        "rightBack": "Right Back (RB)",
+        "leftBack": "Left Back (LB)",
+        "defensiveMidfielder": "Defensive Midfielder (CDM)",
+        "centralMidfielder": "Central Midfielder (CM)",
+        "attackingMidfielder": "Attacking Midfielder (AM)",
+        "rightWinger": "Right Winger (RW/RM)",
+        "leftWinger": "Left Winger (LW/LM)",
+        "secondStriker": "Second Striker (SS)",
+        "striker": "Striker (ST)"
+      }
+    },
+    "search": {
+      "title": "Track a Golden Player's Report",
+      "placeholder": "Enter Player Code",
+      "enterCode": "Enter Player Code",
+      "notFound": "Player Not Found",
+      "checkCode": "Please check the player code and try again",
+      "error": "Error",
+      "failed": "Unable to access the player report at the moment",
+      "description": "Enter the player code to track their performance and progress"
+    },
+    "highlights": {
+      "training": "Specialized Training for Your Child's Age",
+      "followUp": "Individual Player Progress Tracking",
+      "registration": "Training Groups Based on Age and Skill Level"
+    },
+    "imageCaption": "One Team. One Big Dream."
+  },
+  "about": {
+    "eyebrow": "Why Choose Golden Academy?",
+    "title": "Invest in Your Child's Future",
+    "subtitle": "Discover Golden Football Academy",
+    "desc1": "At Golden Academy, we believe every child has a talent waiting to be discovered and developed. We help children learn the fundamentals of football and improve their skills, from their very first touch to mastering the game on the pitch.",
+    "desc2": "We provide specialized football training for children aged 3 to 12, taking into account each player's age and skill level while helping them improve their football abilities and build self-confidence.",
+    "desc3": "Our goal goes beyond teaching football. We also focus on developing teamwork, discipline, cooperation, and respect. At Golden Academy, we help your child enjoy the game, learn, and grow in a suitable training environment inside El Tayaran Club in New Cairo.",
+    "badge": "SKILLS • CHARACTER • TEAM SPIRIT",
+    "imageTitle": "We Teach Football. We Build Champions.",
+    "imageSubtitle": "A Journey of Skills and Confidence",
+    "featuresTitle": "What Makes Golden Different",
+    "features": {
+      "coaches": {
+        "title": "Specialized Coaches",
+        "description": "Specialized coaching that helps children learn football fundamentals and develop their skills."
+      },
+      "safety": {
+        "title": "A Suitable Training Environment",
+        "description": "Training inside El Tayaran Club in New Cairo, a recognized location for sports activities."
+      },
+      "training": {
+        "title": "Age-Based Training Groups",
+        "description": "Players are organized into training groups according to their ages and skill levels."
+      },
+      "development": {
+        "title": "Player Progress Tracking",
+        "description": "We focus on monitoring each player's development and identifying areas for improvement."
+      }
+    }
+  },
+  "features": {
+    "card1": {
+      "title": "Specialized Kids' Training",
+      "desc": "Teaching football skills through age-appropriate training"
+    },
+    "card2": {
+      "title": "Organized Training Groups",
+      "desc": "Players grouped according to age and skill level"
+    },
+    "card3": {
+      "title": "Continuous Development",
+      "desc": "Monitoring every player's performance and progress"
+    }
+  },
+  "pricing": {
+    "title": "Membership Plans",
+    "desc": "Ask about the membership options that suit your child and start their journey of learning football and developing their skills at Golden Academy.",
+    "heading": "Start Your Child's Journey with Golden",
+    "currency": "EGP",
+    "button": "Ask About Membership",
+    "quote": "Every champion starts with one step. Book a free trial and begin your child's journey!",
+    "recommended": "Annual Membership",
+    "cards": {
+      "monthly": {
+        "title": "Monthly Membership",
+        "duration": "Per Month",
+        "desc": "A membership that gives your child the opportunity to attend regular training sessions, learn football, and develop their skills.",
+        "plan": "monthly"
+      },
+      "quarterly": {
+        "title": "Quarterly Membership",
+        "duration": "Every 3 Months",
+        "desc": "A training period that helps your child continue learning, improving, and gaining new skills.",
+        "plan": "quarterly"
+      },
+      "halfyear": {
+        "title": "6-Month Membership",
+        "duration": "Every 6 Months",
+        "desc": "An opportunity to stay consistent with training, improve football skills, and build confidence on the pitch.",
+        "plan": "halfyear"
+      },
+      "annual": {
+        "title": "Annual Membership",
+        "duration": "Per Year",
+        "desc": "A long-term training journey that helps your child stay committed and continuously develop their football skills.",
+        "plan": "annual"
+      }
+    }
+  },
+  "players": {
+    "eyebrow": "Golden Stars",
+    "title": "Meet the Stars of Golden Academy",
+    "subtitle": "We are proud of every player in the Golden family. Every child deserves the opportunity to learn, grow, and show their full potential on the pitch.",
+    "previous": "Previous Player",
+    "next": "Next Player",
+    "cards": {
+      "player1": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player2": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player3": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player4": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player5": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player6": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player7": {
+        "name": "Golden Star",
+        "role": "Player"
+      },
+      "player8": {
+        "name": "Golden Star",
+        "role": "Player"
+      }
+    }
+  },
+  "programs": {
+    "program1": {
+      "title": "Physical Fitness & Athletic Skills",
+      "desc": "We work on developing players' physical abilities through age- and level-appropriate exercises:",
+      "btn": "Register Your Child Now",
+      "points": [
+        "Developing speed, agility, balance, and motor coordination.",
+        "Improving movement and body control during play.",
+        "Gradual training that considers each player's age and physical ability.",
+        "Developing flexibility and stamina through suitable activities for children.",
+        "Prioritizing player safety during all training sessions."
+      ]
+    },
+    "program2": {
+      "title": "Technical & Football Skills Training",
+      "desc": "We help players learn the fundamentals of football and improve their skills:",
+      "btn": "Book a Free Trial",
+      "points": [
+        "Learning ball control, receiving, and passing.",
+        "Developing passing and shooting skills.",
+        "Improving dribbling and movement with the ball.",
+        "Learning the fundamentals of teamwork and positioning on the pitch.",
+        "Gradually developing skills according to each player's age and level."
+      ]
+    },
+    "program3": {
+      "title": "Character Development & Football Intelligence",
+      "desc": "Football is an opportunity to learn skills that go beyond the pitch:",
+      "btn": "Join the Golden Family",
+      "points": [
+        "Building self-confidence and decision-making skills.",
+        "Encouraging commitment, discipline, and respect for instructions.",
+        "Learning cooperation and the spirit of teamwork.",
+        "Developing focus and football intelligence during play.",
+        "Building a positive character that enjoys learning and growth."
+      ]
+    }
+  },
+  "stats": {
+    "title": "GOLDEN ACADEMY",
+    "heading": "A Journey of Learning and Development",
+    "description": "At Golden Academy, we focus on developing children's skills and helping them discover their abilities and build their character through football.",
+    "overview": "The Golden Experience",
+    "indicator": "Skills We Develop. Champions We Inspire.",
+    "footer": "Every step in training is the beginning of a new achievement.",
+    "coach": "Coaches",
+    "technical": "Technical Staff",
+    "trophies": "Championships",
+    "player": "Players",
+    "btn": "Join Golden Academy"
+  },
+  "footer": {
+    "brand": "Golden Football Academy",
+    "country": "Arab Republic of Egypt",
+    "address": "Inside El Tayaran Club, New Cairo, Cairo",
+    "newsletter_title": "Stay Updated with Golden",
+    "subscribe": "Subscribe",
+    "privacy": "Privacy Policy",
+    "payment_policy": "Payment Policy",
+    "rights": "All Rights Reserved © 2026",
+    "description": "We teach football and build champions. We help children learn the game, develop their skills, build confidence, and experience the spirit of teamwork.",
+    "contact_title": "Contact Us",
+    "navigation_title": "Quick Links",
+    "newsletter_label": "STAY CONNECTED",
+    "newsletter_description": "Follow Golden Academy's news, training sessions, and latest activities.",
+    "newsletter_note": "Follow us to stay updated with Golden Academy.",
+    "social_title": "Follow Us"
+  },
+  "join": {
+    "trial_title": "Book Your Free Trial Session",
+    "join_title": "Join Golden Football Academy",
+    "name_placeholder": "Player Name",
+    "age_placeholder": "Player Age",
+    "phone_placeholder": "Parent's Phone Number",
+    "send": "Submit Request",
+    "error_msg": "Please complete all required information",
+    "wa_request": "New Registration Request - Golden Academy",
+    "wa_name": "Player Name",
+    "wa_age": "Age",
+    "wa_phone": "Parent's Phone",
+    "wa_plan": "Membership"
+  },
+  "allReport": {
+    "permissionError": "Failed to load permissions",
+    "defaultPlayer": "Player",
+    "fetchError": "Failed to load reports",
+    "deleteConfirmTitle": "Are you sure?",
+    "deleteConfirmText": "This report will be permanently deleted.",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "deleteSuccess": "Report deleted successfully",
+    "deleteError": "Failed to delete report",
+    "viewReport": "View Report",
+    "filterTitle": "Filter Reports",
+    "searchPlaceholder": "Search by player name or code",
+    "allBranches": "All Branches",
+    "highestRating": "Highest Rating",
+    "lowestRating": "Lowest Rating",
+    "date": "Date",
+    "player": "Player",
+    "code": "Code",
+    "position": "Position",
+    "rating": "Rating",
+    "evaluator": "Evaluator",
+    "actions": "Actions",
+    "loading": "Loading reports...",
+    "noReports": "No reports match your current search filters.",
+    "coach": "Coach",
+    "paginationInfo": "Showing {{from}} to {{to}} of {{total}}",
+    "previous": "Previous",
+    "next": "Next",
+    "positions": {
+      "0": "All Players",
+      "1": "Goalkeeper (GK)",
+      "2": "Center Back (CB)",
+      "3": "Right Back (RB)",
+      "4": "Left Back (LB)",
+      "5": "Defensive Midfielder (CDM)",
+      "6": "Central Midfielder (CM)",
+      "7": "Attacking Midfielder (AM)",
+      "8": "Right Winger (RW/RM)",
+      "9": "Left Winger (LW/LM)",
+      "10": "Second Striker (SS)",
+      "11": "Striker (ST)"
+    }
+  },
+  "ReportPage": {
+    "playerInfoCard": {
+      "loading": "Loading player information...",
+      "notFound": "Player not found",
+      "coach": "Coach",
+      "ageCategory": "Age Group",
+      "ageYears": "{{age}} years",
+      "position": "Position",
+      "playerCode": "Player Code",
+      "player": "Player",
+      "positions": {
+        "goalkeeper": "Goalkeeper (GK)",
+        "centerBack": "Center Back (CB)",
+        "rightBack": "Right Back (RB)",
+        "leftBack": "Left Back (LB)",
+        "defensiveMidfielder": "Defensive Midfielder (CDM)",
+        "centralMidfielder": "Central Midfielder (CM)",
+        "attackingMidfielder": "Attacking Midfielder (AM)",
+        "rightWinger": "Right Winger (RW/RM)",
+        "leftWinger": "Left Winger (LW/LM)",
+        "secondStriker": "Second Striker (SS)",
+        "striker": "Striker (ST)"
+      }
+    },
+    "quickStatsCards": {
+      "performanceGrowth": "Performance Growth",
+      "noData": "No Data Available",
+      "latestEvaluation": "Latest Evaluation",
+      "bestEvaluation": "Best Evaluation",
+      "totalEvaluations": "Total Evaluations",
+      "evaluations": "Evaluations",
+      "generalImprovement": "Overall Improvement",
+      "performanceDecline": "Performance Decline",
+      "loading": "Loading statistics..."
+    },
+    "radarSkillsChart": {
+      "title": "Skills Performance",
+      "loading": "Loading data...",
+      "skills": {
+        "shooting": "Shooting",
+        "dribbling": "Dribbling",
+        "speed": "Speed",
+        "footballIntelligence": "Football Intelligence",
+        "agility": "Agility",
+        "technicalPerformance": "Technical Performance",
+        "passing": "Passing",
+        "visionLongPassing": "Vision & Long Passing",
+        "stamina": "Stamina",
+        "decisionMaking": "Decision Making",
+        "teamwork": "Teamwork",
+        "strength": "Strength",
+        "focus": "Focus",
+        "commitmentDiscipline": "Commitment & Discipline",
+        "balanceCoordination": "Balance & Coordination",
+        "personalityLeadership": "Personality & Leadership"
+      },
+      "overall": "Overall Rating",
+      "rating": "Rating",
+      "skillsTitle": "Player Skills"
+    },
+    "performanceChart": {
+      "title": "Overall Performance Progress",
+      "loading": "Loading data...",
+      "noEvaluations": "No evaluations yet",
+      "evaluationScore": "Evaluation Score"
+    },
+    "comparePlayersCard": {
+      "title": "Player Comparison",
+      "loading": "Loading data...",
+      "player": "Player",
+      "academyAverage": "Academy Average",
+      "bestEvaluation": "Best Evaluation",
+      "lowestEvaluation": "Lowest Evaluation"
+    },
+    "coachNotesCard": {
+      "title": "Coach's Notes",
+      "loading": "Loading notes...",
+      "noNotes": "No coach notes available yet."
+    },
+    "evolutionPerformanceChart": {
+      "title": "Performance Evolution Over Months",
+      "loading": "Loading data...",
+      "noData": "No data available",
+      "technicalSkills": "Technical Skills",
+      "physicalFitness": "Physical Fitness",
+      "intelligenceDiscipline": "Intelligence & Discipline"
+    },
+    "overallRatingCard": {
+      "title": "Overall Rating",
+      "loading": "Loading rating...",
+      "outOf": "out of 100",
+      "levels": {
+        "excellent": "Excellent ⭐",
+        "veryGood": "Very Good 🔥",
+        "good": "Good 👍",
+        "weak": "Weak ⚠️"
+      }
+    },
+    "skillsOverview": {
+      "loading": "Loading skills...",
+      "title": "Detailed Player Performance Report",
+      "subtitle": "Analysis of Golden Academy player's skills and progress",
+      "showLess": "Show Less",
+      "showAll": "Show All {{count}} Skills",
+      "strengths": "Strengths",
+      "needsImprovement": "Needs Improvement",
+      "skillsSummary": "Skills Summary",
+      "categories": {
+        "technical": "Technical Skills",
+        "fitness": "Physical Fitness",
+        "mental": "Intelligence & Discipline"
+      },
+      "levels": {
+        "excellent": "Excellent",
+        "veryGood": "Very Good",
+        "good": "Good",
+        "acceptable": "Acceptable",
+        "weak": "Weak"
+      },
+      "skills": {
+        "ballControl": "Ball Control",
+        "passing": "Passing",
+        "shooting": "Shooting",
+        "dribbling": "Dribbling",
+        "visionLongPassing": "Vision & Long Passing",
+        "technicalPerformance": "Technical Performance",
+        "strength": "Strength",
+        "stamina": "Stamina",
+        "speed": "Speed",
+        "agility": "Agility",
+        "balanceCoordination": "Balance & Coordination",
+        "coordinatedMotorPerformance": "Coordinated Motor Performance",
+        "teamwork": "Teamwork",
+        "decisionMaking": "Decision Making",
+        "focus": "Focus",
+        "footballIntelligence": "Football Intelligence",
+        "commitmentDiscipline": "Commitment & Discipline",
+        "personalityLeadership": "Personality & Leadership"
+      }
+    },
+    "evaluationsTable": {
+      "loading": "Loading evaluations...",
+      "title": "Player Evaluation History",
+      "columns": {
+        "date": "Date",
+        "coach": "Coach",
+        "overallRating": "Overall Rating",
+        "technicalSkills": "Technical Skills",
+        "physicalFitness": "Physical Fitness",
+        "intelligenceDiscipline": "Intelligence & Discipline",
+        "viewReport": "View Report"
+      },
+      "viewReport": "View Report",
+      "noEvaluations": "No evaluations available yet",
+      "tipLabel": "Tip: ",
+      "tip": "Keep training consistently, continue building on strengths, and work on improving the skills that need more practice."
+    }
+  },
+  "report": {
+    "actions": {
+      "home": "Home",
+      "whatsapp": "Share via WhatsApp",
+      "share": "Share",
+      "copyLink": "Copy Link",
+      "shareTitle": "Golden Player Report",
+      "shareText": "View the player's performance report and progress at Golden Academy",
+      "shareWhatsappTitle": "Golden Player Report",
+      "linkCopied": "Link copied successfully",
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode",
+      "switchToEnglish": "Switch to English",
+      "switchToArabic": "Switch to Arabic"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+/* ========================================
+   Overall Rating Card
+======================================== */
+
+.overall-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    color: #111827;
+}
+
+
+/* ========================================
+   Overall Circle
+======================================== */
+
+.overall-circle {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.overall-circle svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+}
+
+.circle-bg {
+    fill: none;
+    stroke: #edf2f7;
+    stroke-width: 10;
+}
+
+.circle-progress {
+    fill: none;
+    stroke: #2563ff;
+    stroke-width: 10;
+    stroke-linecap: round;
+    transition: 0.5s ease;
+}
+
+.circle-content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.circle-content h2 {
+    margin: 0;
+    font-size: 42px;
+    font-weight: 900;
+    color: #111827;
+}
+
+.circle-content span {
+    font-size: 14px;
+    color: #6b7280;
+    font-weight: 600;
+}
+
+
+/* ========================================
+   Level
+======================================== */
+
+.level-box {
+    font-size: 18px;
+    font-weight: 800;
+    padding: 12px 28px;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.level-box.excellent {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.level-box.very-good {
+    background: #dbeafe;
+    color: #1d4ed8;
+}
+
+.level-box.good {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.level-box.weak {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+
+/* ========================================
+   DARK MODE
+======================================== */
+
+[data-theme="dark"] .overall-card {
+    color: #f8fafc;
+}
+
+
+/* Circle */
+
+[data-theme="dark"] .circle-bg {
+    stroke: #334155;
+}
+
+[data-theme="dark"] .circle-progress {
+    stroke: #6366f1;
+}
+
+
+/* Number */
+
+[data-theme="dark"] .circle-content h2 {
+    color: #f8fafc;
+}
+
+[data-theme="dark"] .circle-content span {
+    color: #94a3b8;
+}
+
+
+/* Level */
+
+[data-theme="dark"] .level-box.excellent {
+    background: #14532d;
+    color: #bbf7d0;
+}
+
+[data-theme="dark"] .level-box.very-good {
+    background: #1e3a8a;
+    color: #bfdbfe;
+}
+
+[data-theme="dark"] .level-box.good {
+    background: #713f12;
+    color: #fde68a;
+}
+
+[data-theme="dark"] .level-box.weak {
+    background: #7f1d1d;
+    color: #fecaca;
+}
+
+
+/* ========================================
+   MOBILE
+======================================== */
+
+@media (max-width: 768px) {
+
+    .overall-circle {
+        width: 120px;
+        height: 120px;
+    }
+
+    .circle-content h2 {
+        font-size: 34px;
+    }
+
+    .level-box {
+        font-size: 16px;
+        padding: 10px 24px;
+    }
+}
